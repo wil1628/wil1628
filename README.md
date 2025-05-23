@@ -1,49 +1,48 @@
-<h1 align="center">Hola 👋, soy Wilber Jiménez Herrera (@wil1628)</h1>
-<h3 align="center">Ingeniero Informático | Desarrollador de Software | Apasionado por el Análisis de Datos</h3>
+<h1 align="center">Hi 👋, I'm Wilber Jiménez Herrera (@wil1628)</h1>
+<h3 align="center">Computer Engineer | Software Developer | Data Analysis Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineer;Software+Development+and+Automation;Passionate+about+Data+Analysis&center=true&width=500&height=25" />
+</p>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-- 👨‍🎓 Soy **Ingeniero Informático**, con formación técnica y enfoque práctico en soluciones tecnológicas.
-- 🔭 Actualmente trabajando en proyectos de **desarrollo de software** y **automatización de tareas** tanto en entornos de escritorio como web.
-- 🌱 Aprendiendo y reforzando habilidades en **.NET (C#)**, **SQL Server**, **Visual Studio**, **Docker** y herramientas de control de versiones como **Git**.
-- 📊 Apasionado por el **análisis de datos** y la **visualización de información** con herramientas como **Power BI**, **Excel avanzado**, y **Python (pandas, matplotlib)**.
-- 🤝 Me interesa colaborar en proyectos que involucren **desarrollo de aplicaciones**, **creación de reportes inteligentes**, y **transformación digital** de procesos.
-- 💬 Disfruto compartir conocimientos sobre desarrollo en C#, bases de datos, consultas SQL optimizadas, análisis exploratorio de datos, y automatización de reportes.
+- 👨‍🎓 I'm a **Computer Engineer** with technical training and hands-on experience in tech solutions.
+- 🔭 Currently working on **software development** and **task automation** projects for both desktop and web environments.
+- 🌱 Continuously learning and improving skills in **.NET (C#)**, **SQL Server**, **Visual Studio**, **Docker**, and version control tools like **Git**.
+- 📊 Passionate about **data analysis** and **data visualization** using tools like **Power BI**, **Advanced Excel**, and **Python (pandas, matplotlib)**.
+- 🤝 Open to collaborate on projects involving **app development**, **intelligent reporting**, and **digital transformation**.
+- 💬 Always glad to share knowledge on topics like C# development, SQL database queries, data exploration, and report automation.
 
 ---
-## 🔧 Tecnologías que uso
 
-### 💻 Desarrollo de software:
-- Lenguajes: `C#`, `JavaScript`, `HTML/CSS`
-- Entornos: `Visual Studio`, `Visual Studio Code`
-- Bases de datos: `SQL Server`, `MySQL`
-- Contenedores y despliegue: `Docker`
-- Control de versiones: `Git` y `GitHub`
+## 🔧 Tools and Technologies
 
-### 📊 Análisis de datos:
-- Herramientas: `Power BI`, `Excel avanzado`
-- Lenguajes: `Python (pandas, matplotlib)`
-- Consultas: `SQL` para análisis y extracción de datos
-- Automatización: `Power Query`, `macros (VBA)`
+### 💻 Software Development:
+- Languages: `C#`, `JavaScript`, `HTML/CSS`
+- IDEs: `Visual Studio`, `Visual Studio Code`
+- Databases: `SQL Server`, `SQLite`
+- Containers & Deployment: `Docker`
+- Version control: `Git`, `GitHub`
+
+### 📊 Data Analysis:
+- Tools: `Power BI`, `Advanced Excel`
+- Languages: `Python (pandas, matplotlib)`
+- Queries: `SQL` for data extraction and analysis
+- Automation: `Power Query`, `macros (VBA)`
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wil1628&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wil1628&layout=compact&theme=radical" width="45%" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=wil1628&theme=merko)](https://git.io/streak-stats)
+
 ---
 
-## 📫 ¿Cómo contactarme?
+## 📫 How to reach me
 
 - ✉️ **jimenezherrerawilber@gmail.com**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/wilber-jimenez-7a61251bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BISp4jWj1Q7aEAPnWUXfLKg%3D%3D)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/wilber-jimenez-7a61251bb)
 - 📱 WhatsApp: +506 8724 6932
-
----
-
-
