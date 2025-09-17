@@ -11,7 +11,7 @@
 
 - 👨‍🎓 I'm a **Computer Engineer** with technical training and hands-on experience in tech solutions.
 - 🔭 Currently working on **software development** and **task automation** projects for both desktop and web environments.
-- 🌱 Continuously learning and improving skills in **.NET (C#)**, **SQL Server**, **Visual Studio**, **Docker**, and version control tools like **Git**.
+- 🌱 Continuously learning and improving skills in **.NET (C#)**, **SQL Server**, **Visual Studio**, **Docker**, ** Java** (** SpringBoot **) and version control tools like **Git**.
 - 📊 Passionate about **data analysis** and **data visualization** using tools like **Power BI**, **intermediate Excel**, and **Python (pandas, matplotlib)**.
 - 🤝 Open to collaborate on projects involving **app development**, **intelligent reporting**, and **digital transformation**.
 - 💬 Always glad to share knowledge on topics like C# development, SQL database queries, data exploration, and report automation.
@@ -21,7 +21,7 @@
 ## 🔧 Tools and Technologies
 
 ### 💻 Software Development:
-- Languages: `C#`, `JavaScript`, `HTML/CSS`
+- Languages: `C#`, `JavaScript`, `HTML/CSS`, `Java/ Spring Boot `
 - IDEs: `Visual Studio`, `Visual Studio Code`
 - Databases: `SQL Server`, `MySQL`
 - Containers & Deployment: `Docker`
