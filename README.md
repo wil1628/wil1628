@@ -13,8 +13,6 @@
 - 🔭 Currently working on **software development** and **task automation** projects for both desktop and web environments.
 - 🌱 Continuously learning and improving skills in **.NET (C#)**, **SQL Server**, **Visual Studio**, **Docker**, **Java** (**SpringBoot**), version control tools like **Git**.
 - 📊 Passionate about **data analysis** and **data visualization** using tools like **Power BI**, **intermediate Excel**, and **Python (pandas, matplotlib)**.
-- 🤝 Open to collaborate on projects involving **app development**, **intelligent reporting**, and **digital transformation**.
-- 💬 Always glad to share knowledge on topics like C# development, SQL database queries, data exploration, and report automation.
 
 ---
 
@@ -29,9 +27,7 @@
 
 ### 📊 Data Analysis:
 - Tools: `Power BI`, `Intermediate Excel`
-- Languages: `Python (pandas, matplotlib)`
 - Queries: `SQL` for data extraction and analysis
-- Automation: `Power Query`
 
 ---
 
