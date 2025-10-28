@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineer | Software Developer | Data Analytics Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineer;Software+Development+and+Automation;Passionate+about+Data+Analytics&center=true&width=500&height=25" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineer;Software+Development;Passionate+about+Data+Analytics&center=true&width=500&height=25" />
 </p>
 
 ---
